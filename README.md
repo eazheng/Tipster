@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Settings page to change the default tip percentage.
+* [ ] Settings page to change the default tip percentage. - **attempted**
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -35,6 +35,8 @@ GIF created with [Recordit](http://www.recordit.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Challenges included clearly understanding the full organization of the app. While I followed the videos, I wasn't really figuring out the steps on my own, so attempting the extra parts were not as clear to me. It was challenging to understand how all of the parts fit together and keep track of what parts were connected with what code and files.
 
 ## Credits
 
